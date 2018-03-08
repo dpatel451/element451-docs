@@ -86,3 +86,6 @@ THEN 1
 Else 0
 END
 ```
+[Active Term]
+```
+IFNULL([Term Name],[Intended Term Label])
