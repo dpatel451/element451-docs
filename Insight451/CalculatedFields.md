@@ -81,7 +81,6 @@ THEN 1
 Else 0
 END
 ```
-
 # Engagement Score
 Computes digital engagement score from email, SMS, forms, and logins
 ```
